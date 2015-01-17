@@ -1,0 +1,35 @@
+body {
+	background-color: #227415;
+	text-align: center;
+	font-family: cursive;
+	font-size: 1.5em;
+}
+
+h1, h2, h3 {
+	color: #fff7a7;
+	text-shadow: 0 0 3px black;
+	background-color: #0c5001;
+	max-width: 40%;
+	margin: 0 auto;
+}
+p {
+	background-color: #0c5001;
+	color: #fff7a7;
+	padding: 1%;
+	border-radius: 5px;
+}
+a {
+	list-style: none;
+	color: #fff7a7;
+	text-decoration: none
+}
+a:hover {
+	color: black;
+	font-size: 1.55em;
+}
+img {
+	max-height: 12%;
+	max-width: 12%;
+	margin-top: 2%;
+	box-shadow: 0 0 5px white;
+}
